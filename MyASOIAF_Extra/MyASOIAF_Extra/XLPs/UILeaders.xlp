@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_DAERONII_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DAERONII_TARGARYEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DAEMON_BLACKFYRE_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DAEMON_BLACKFYRE_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_BAELOR_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_BAELOR_TARGARYEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AERYS_II_TARGARYEN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AERYS_II_TARGARYEN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_HOSTER_TULLY_NEUTRAL"/>
+			<m_ObjectName text="LEADER_HOSTER_TULLY_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_JON_ARRYN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_JON_ARRYN_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

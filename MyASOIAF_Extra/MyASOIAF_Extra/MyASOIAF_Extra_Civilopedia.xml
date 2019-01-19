@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAERONII_TARGARYEN_QUOTE" Language="en_US">
+			<Text>“He was a good king, everybody says so. He brought Dorne into the realm and made the Dornishmen our friends.”[NEWLINE]– Aegon V Targaryen about Daeron II </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAEMON_BLACKFYRE_QUOTE" Language="en_US">
+			<Text>“The rightful king, Daemon Blackfyre. The King Who Bore the Sword.”[NEWLINE]– Eustace Osgrey about Daemon Blackfyre</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BAELOR_TARGARYEN_QUOTE" Language="en_US">
+			<Text>“Baelor the Blessed was holy, and pious. He built this Sept. He also named a six year-old boy High Septon because he thought the boy could work miracles. He ended up fasting himself into an early grave because food was of this world, and this world is sinful.”[NEWLINE]– Tywin Lannister about Baelor Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERYS_II_TARGARYEN_QUOTE" Language="en_US">
+			<Text>The traitors want my city ... but I’ll give them naught but ashes. Let Robert be king over charred bones and cooked meat.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HOSTER_TULLY_QUOTE" Language="en_US">
+			<Text>“Your father was a stubborn old ox. I was surprised when he died. Didn't think death had the patience. ”[NEWLINE]– The Blackfish to Catelyn Stark about Hoster Tully</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JON_ARRYN_QUOTE" Language="en_US">
+			<Text>“I loved that old man, I swear it, but now I think he was a bigger fool than Moon Boy. ”[NEWLINE]– Robert I Baratheon about Jon Arryn</Text>
+		</Row>
+		<!-- CIVILIZATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_HOUSE_BLACKFYRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>House Blackfyre is an extinct noble house from the Crownlands. A cadet branch of House Targaryen, House Blackfyre was founded by Daemon Blackfyre, a legitimized Great Bastard of King Aegon IV Targaryen. House Blackfyre is named for the Valyrian steel sword of the same name. Their sigil was a black three-headed dragon, breathing black fire on red, the Targaryen sigil with the colours reversed. </Text>
+		</Row>
+		<!-- LEADERS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAERONII_TARGARYEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Daeron II Targaryen, known as Daeron the Good, was the twelfth Targaryen to sit the Iron Throne. Daeron brought Dorne peacefully into the realm, uniting all the lands of Westeros south of the wall. His bastard half-brother, Daemon Blackfyre, challenged his rule and the result was a terrible civil war, the First Blackfyre Rebellion. Daeron died during the Great Spring Sickness in 209 AC.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DAEMON_BLACKFYRE_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Daemon I Blackfyre, born Daemon Waters, was the bastard son of Princess Daena Targaryen and King Aegon IV Targaryen. Daemon founded House Blackfyre, named after the Targaryen Valyrian steel sword. He fought against his trueborn half-brother, King Daeron II Targaryen, for the Iron Throne in the First Blackfyre Rebellion. Daemon was the first and greatest of the five Blackfyre Pretenders. As a bastard of House Targaryen Daemon bore the arms of House Targaryen with the colors reversed: a black three-headed dragon on a red field. Thus he became known as the Black Dragon. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BAELOR_TARGARYEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Baelor I Targaryen, known as the Beloved and the Blessed, was the ninth Targaryen king to reign on the Iron Throne as Lord of the Seven Kingdoms. Known for his piety, Baelor was a septon as well as a king. He was the second son of King Aegon III Targaryen and Queen Daenaera Velaryon, and ruled after the death of his older brother, King Daeron I Targaryen. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_BAELOR_TARGARYEN_CHAPTER_HISTORY_PARA_2"  Language="en_US">
+			<Text>None of the Targaryen kings are as beloved as Baelor. He loved the smallfolk and the gods in equal parts, yet imprisoned his own sisters. Some remember him as a great and holy man and praise him for his contributions to the Faith of the Seven, for forging a peace with Dorne, his mercy and his many acts of charity. Others are less impressed by him, believing him to be an overly zealous weak fool. he Great Sept of Baelor in King's Landing features a statue of him. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERYS_II_TARGARYEN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Aerys II Targaryen, also called the Mad King and King Scab, was the seventeenth and last member of the Targaryen dynasty to sit the Iron Throne, ruling from 262 AC to 283 AC. His children that lived to adulthood, by his sister-wife, Rhaella Targaryen, were Rhaegar, Viserys, and Daenerys. Aerys showed great promise at the start of his reign, bringing peace and prosperity to the Seven Kingdoms, but later descended into insanity, caused by, amongst other factors, multiple miscarriages and stillbirths, the deaths of three sons, and a brief uprising known as the Defiance of Duskendale, in which he was held prisoner for half a year by a rebellious lord. His paranoia and cruelty grew out of control. He was eventually killed by a member of his own Kingsguard, Ser Jaime Lannister, during Robert's Rebellion.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HOSTER_TULLY_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Hoster Tully is the Lord Paramount of the Trident, the Lord of Riverrun, and the head of House Tully. He was married to Lady Minisa Whent, with whom he had three children who survived infancy: Catelyn, Lysa, and Edmure. His younger brother is Ser Brynden Tully, the Knight of the Gate. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_JON_ARRYN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Jon Arryn was a head of House Arryn whose titles included Lord of the Eyrie, Defender of the Vale, and Warden of the East. He served as Hand of the King to Robert I Baratheon from 283 AC until his unexpected death in 298 AC. Jon was the husband of Lady Lysa Arryn and father of Lord Robert Arryn, and he acted as a second father to Lord Eddard Stark and King Robert. Jon's heir, Elbert Arryn, was murdered by King Aerys II Targaryen in King's Landing, and the Mad King then demanded that Jon execute his wards, Eddard and Robert. Jon refused, however, and raised his banners in revolt, beginning what would become known as Robert's Rebellion.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE DAERONII_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DAERONII_TARGARYEN" Language="es_ES">
+			<Text>El rey Daeron II Targaryen, apodado el Bueno, fue el hijo mayor del rey Aegon IV Targaryen y su hermana esposa, la reina Naerys. Fue Rey de los Siete Reinos entre 184 y 209 AC. Bajo su reinado aconteció la Rebelión Fuegoscuro, donde su medio-hermano bastardo Daemon Fuegoscuro reclamó su derecho al Trono de Hierro.</Text>
+		</Replace>
+		<!-- END OF DAERONII_TARGARYEN	-->
+		<!-- THE DAEMON_BLACKFYRE	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DAEMON_BLACKFYRE" Language="es_ES">
+			<Text>El rey Daemon I Fuegoscuro, nacido como Daemon Mares y apodado el Dragón Negro, fue el hijo bastardo del rey Aegon IV Targaryen y su prima, la princesa Daena Targaryen. Fue fundador y cabeza de la Casa Fuegoscuro. Unió a la mitad del reino tras su pretensión al Trono de Hierro en contra del rey Daeron II, en una guerra civil conocida como la Rebelión Fuegoscuro.</Text>
+		</Replace>
+		<Replace Tag="LOC_CITY_NAME_WHITEGROVE" Language="es_ES">
+			<Text>Whitegrove</Text>
+		</Replace>
+		<!-- END THE DAEMON_BLACKFYRE	-->
+		<!-- THE BAELOR_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_BAELOR_TARGARYEN" Language="es_ES">
+			<Text>El rey Baelor I Targaryen, apodado el Santo y el Bienamado, fue hijo del rey Aegon III Targaryen y la reina Daenaera Velaryon. Fue Rey de los Siete Reinos entre el 161 y el 171 AC. Conocido por su gran religiosidad, Baelor era septón además de rey.</Text>
+		</Replace>
+		<!-- END OF BAELOR_TARGARYEN	-->
+		<!-- THE AERYS_II_TARGARYEN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AERYS_II_TARGARYEN" Language="es_ES">
+			<Text>El rey Aerys II Targaryen, apodado el Rey Loco y el Rey Costra, fue Rey de los Siete Reinos entre 262 y 283 AC, siendo el último Targaryen en sentarse en el Trono de Hierro.</Text>
+		</Replace>
+		<!-- END OF AERYS_II_TARGARYEN	-->
+		<!-- THE HOSTER_TULLY	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_HOSTER_TULLY" Language="es_ES">
+			<Text>Lord Hoster Tully fue cabeza de la Casa Tully y, como tal, Señor de Aguasdulces y Señor Supremo del Tridente durante el reinado de Robert Baratheon. </Text>
+		</Replace>
+		<!-- END OF HOSTER_TULLY	-->
+		<!-- THE JON_ARRYN	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_JON_ARRYN" Language="es_ES">
+			<Text>Lord Jon Arryn fue cabeza de la Casa Arryn y, como tal, Señor del Nido de Águilas, Defensor del Valle y Guardián del Oriente durante los reinados de Aerys II Targaryen y Robert I Baratheon. Sirvió como Mano del Rey de Robert I hasta su muerte.</Text>
+		</Replace>
+		<!-- END OF JON_ARRYN	-->
+	</LocalizedText>
+</GameData>

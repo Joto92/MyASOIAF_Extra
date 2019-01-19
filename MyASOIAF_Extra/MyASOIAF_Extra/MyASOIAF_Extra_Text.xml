@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE DAERONII_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DAERONII_TARGARYEN" Language="en_US">
+			<Text>Daeron II Targaryen, known as Daeron the Good, was the twelfth Targaryen to sit the Iron Throne. Daeron brought Dorne peacefully into the realm, uniting all the lands of Westeros south of the wall. His bastard half-brother, Daemon Blackfyre, challenged his rule and the result was a terrible civil war, the First Blackfyre Rebellion. </Text>
+		</Row>
+		<!-- END OF DAERONII_TARGARYEN	-->
+		<!-- THE DAEMON_BLACKFYRE	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DAEMON_BLACKFYRE" Language="en_US">
+			<Text>Daemon I Blackfyre, was the bastard son of Princess Daena Targaryen and King Aegon IV Targaryen. Daemon founded House Blackfyre, named after the Targaryen Valyrian steel sword. He fought against his trueborn half-brother, King Daeron II Targaryen, for the Iron Throne in the First Blackfyre Rebellion.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITEGROVE" Language="en_US">
+			<Text>Whitegrove</Text>
+		</Row>
+		<!-- END THE DAEMON_BLACKFYRE	-->
+		<!-- THE BAELOR_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_BAELOR_TARGARYEN" Language="en_US">
+			<Text>Baelor I Targaryen, known as the Beloved and the Blessed, was the ninth Targaryen king to reign on the Iron Throne as Lord of the Seven Kingdoms. Known for his piety, Baelor was a septon as well as a king.</Text>
+		</Row>
+		<!-- END OF BAELOR_TARGARYEN	-->
+		<!-- THE AERYS_II_TARGARYEN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AERYS_II_TARGARYEN" Language="en_US">
+			<Text>Aerys II Targaryen, also called the Mad King and King Scab, was the seventeenth and last member of the Targaryen dynasty to sit the Iron Throne, ruling from 262 AC to 283 AC.</Text>
+		</Row>
+		<!-- END OF AERYS_II_TARGARYEN	-->
+		<!-- THE HOSTER_TULLY	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_HOSTER_TULLY" Language="en_US">
+			<Text>Hoster Tully is the Lord Paramount of the Trident, the Lord of Riverrun, and the head of House Tully.</Text>
+		</Row>
+		<!-- END OF HOSTER_TULLY	-->
+		<!-- THE JON_ARRYN	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_JON_ARRYN" Language="en_US">
+			<Text>Jon Arryn was a head of House Arryn whose titles included Lord of the Eyrie, Defender of the Vale, and Warden of the East. He served as Hand of the King to Robert I Baratheon from 283 AC until his unexpected death in 298 AC.</Text>
+		</Row>
+		<!-- END OF JON_ARRYN	-->
+	</LocalizedText>
+</GameData>

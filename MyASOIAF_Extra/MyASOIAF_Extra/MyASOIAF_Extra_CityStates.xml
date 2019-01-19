@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!--
+	Essos::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Braavos [Trade]
+		Lorath[Cultural]
+		Pentos[Trade]
+		Myr[Trade]
+		Tyrosh[Militar]
+		Lys[Scientific]
+		Volantis[Religious]
+		Norvos[Religious]
+		Qohor[Industrial]
+		Meeren[Trade]
+		Yunkai[Industrial]
+		Astapor[Milatiristic]
+		New Ghis[Cultural]
+		Lotus Point[Cultural]
+		Port of Ibben[Trade]
+		Qarth[Trade]
+		Mantarys[Cultural]
+		Elyria[Militaristic]
+		Tolos[Militar]
+		Saath[Industrial]
+		Lhazosh[Cultural]
+		##Trade: 6 Cultural: 5 Militar: 5 Religious: 1 Industrial: 3 Science: 1 TOTAL: 21
+	North::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Manderly[Trade]
+		Karstark[Military]
+		Umber[Military]
+		Dustin[Industrial]
+		Dreadfort (Bolton)[Military]
+		Glover[Cultural]
+		Tallhart[Industrial]
+		Reed[Cultural]
+		Mormont[Cultural]
+		Ryswell[Religious]: Pastizales next to rivers
+		Cerwyn[Military]: Somenthing about melee units
+		Flint of Widow's Watch[Cultural]:Somenthing about sea
+		Hornwood[Religious]: Somenthing about forest
+		Flints of the Finger[Industrial]
+		Wull[Religious]
+		Magnar[Cultural]: Kills heal a bit
+		Locke[Trade]
+		Norrey[Religious]
+		##Trade: 2  Cultural: 5  Militar: 4 Religious: 4  Industrial: 3 Science: 0 TOTAL: 18
+	Riverlands:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Bracken[Cultural]
+		Blackwood[Religius]: Somenthing about woods
+		Twins (Frey)[Trade]
+		Mallister[Militar]
+		Darry[Industrial]
+		Mooton[Religious]
+		Piper[Religious]
+		Harrengal(No house): [Military]
+		Harroway[Industrial]
+		Vance of Wayfarer's Rest[Militar]
+		Vance of Atranta[Trade]
+		Hawick[Trade]: Gold salt plains
+		##Trade: 3  Cultural: 1  Militar: 3 Religious: 2  Industrial: 2 Science: 0 TOTAL: 11
+	Vale:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Grafton[Trade]
+		Royce[Militar]
+		Corbray[Industrial]
+		Lynderly[Industrial]
+		Waynwood[Religious]
+		Redfort[Militar]
+		Hunter[Trade]
+		Belmore[Cultural]
+		Melcolm[Cultural]
+		Sunderland[Trade]
+		Templeton[Military]
+		Waxley[Religious]
+		Coldwater[Cultural]
+		##Trade: 3  Cultural: 3  Militar: 3 Religious: 2  Industrial: 2 Science: 0 TOTAL:13
+	Westerlands::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Brax[Trade]
+		Crackehall[Militar]
+		Westerling[Cultural]
+		Lefford[Trade]
+		Marbrand[Religius]
+		Banefort[Military]
+		Farman[Trade]
+		Greenfield[Industrial]
+		Kenning [Cultural]
+		Lydden[Military]
+		Swyft[Trade]
+		Serrett[Trade]
+		Prester [Industrial]
+		##Trade: 4 Cultural: 2 Militar: 3 Religious: 1 Industrial: 2 Science: 0 TOTAL:12
+	Crowlands::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Velaryon[Military]: Somenthing about ships
+		Duskendale[Trade]
+		Sunglass[Religious]
+		Bar Emmon[Military]
+		Celtigar[Trade]
+		Buckwell[Industrial]
+		Massey[Cultural]
+		Rosby[Trade]
+		Stokeworth[Industrial]
+		House Brune of Brownhollow[Cultural]
+		##Trade: 2 Cultural: 2 Militar: 2 Religious: 1 Industrial: 2 Science: 0 TOTAL: 7
+	Dominio::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Tarly[Militar]: Somenthing on archers
+		Redwyne[Trade]: Somenthing aboit wine
+		Hightower[Science]: Somenthing about science and lighhouses
+		Florent[Religious]: Somenthing about furs
+		Rowan[Cultural]:
+		Oakheart[Religious]:
+		Caswell[Militar]:  Somenthing about archery
+		Appleton [Industrial]
+		Ashford[Cultural]: Tourneys ...
+		Chester[Military]
+		Crane[Cultural]
+		Footly[Trade]
+		Fossoway of Cider Hall[Trade]
+		Fossoway of New Barrel [Industrial]
+		Meadows[Religious]
+		Merryweather[Trade]
+		Peake[Military]
+		Roxton[Inudstrial]
+		Vyrwel[Cultural]
+		##Trade: 4 Cultural: 4 Militar: 4 Religious: 3 Industrial: 3 Science: 1 TOTAL: 19
+	Stormlands:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Caron[Cultural]
+		Connington[Military]
+		Estermont[Trade]
+		Cafferen[Militar]
+		Fell[Militar]
+		Swann[Trade]
+		Dondarrion[Military]
+		Errol[Industrial]
+		Grandison[Cultural]
+		Mertyns[Religioys]
+		Morrigen[Cultural]
+		Penrose[Trade]
+		Selmy[Industrial]: Somenthing about farms
+		Tarth[Industrial]
+		Trant[Cultural]
+		Wylde[Religious]
+		Buckler[Trade]
+		##Trade: 4 Cultural: 4 Militar: 4 Religious: 2 Industrial: 3 Science: 0 TOTAL: 17
+	Dorne::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Yronwood[Militar]
+		Dayne[Cultural]
+		Allyrion[Religious]
+		Uller[Militar]
+		Fowler[Cultural]
+		Qorgyle[Cultural]
+		Manwoody[Industrial]
+		Wyl[Trade]
+		Blackmont[Military]
+		Gargalen[Cultural]
+		Jordayne[Trade]
+		Santagar[Religious]
+		Toland[Religious]
+		Vaith[Industrial]
+		Dalt[Trade]
+		##Trade: 3 Cultural: 4 Militar: 3 Religious: 3 Industrial: 2 Science: 0 TOTAL: 15
+	Iron Islands:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Harlaw(Military)
+		Drumm[Religious]
+		Goodbrother[Industrial]: MInes gold
+		Saltcliffe[Cultural]
+		Orkwood[Military]
+		Blacktyde[Cultural]
+		##Trade: 0 Cultural: 2 Militar: 2 Religious: 1 Industrial: 1 Science: 0 TOTAL: 6
+	Others:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+		Castle Black(1)[Cultural]
+		Mudd[Industrail]
+		Fisher[Trade]
+		Teague[Religious]
+		Justman[Cultural]
+		Butterwell[Trade]
+		Reyne[Trade]
+		Thenn[Military]
+	-->
+</GameData>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE DAERONII_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_DAERONII_TARGARYEN_NAME" Language="en_US">
+			<Text>Daeron II Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DAERON_THE_GOOD_NAME" Language="en_US">
+			<Text>Daeron the Good</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DAERON_THE_GOOD_DESCRIPTION" Language="en_US">
+			<Text>All routes give +2[ICON_CULTURE] Culture. All cities with a district receive +1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+		<!-- END OF DAERONII_TARGARYEN	-->
+		<!-- THE DAEMON_BLACKFYRE	-->
+		<Row Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_NAME" Language="en_US">
+			<Text>House Blackfyre</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_DESCRIPTION" Language="en_US">
+			<Text>House Blackfyre</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_ADJECTIVE" Language="en_US">
+			<Text>Blackfyre</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_DAEMON_BLACKFYRE_NAME" Language="en_US">
+			<Text>Daemon Blackfyre</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_BLACK_DRAGON_NAME" Language="en_US">
+			<Text>The Black Dragon</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_BLACK_DRAGON_DESCRIPTION" Language="en_US">
+			<Text>Pay 75% less of the usual cost to levy city-state units. +5% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+		</Row>
+		<!-- END OF DAEMON_BLACKFYRE	-->
+		<!-- THE BAELOR_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_BAELOR_TARGARYEN_NAME" Language="en_US">
+			<Text>Baelor I Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BAELOR_THE_SAINT_NAME" Language="en_US">
+			<Text>Baelor the Blessed</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_BAELOR_THE_SAINT_DESCRIPTION" Language="en_US">
+			<Text>Builds Holy Site districts in half the time. Inquisitors can Remove Heresy one extra time. +5 [ICON_Faith] Faith for each civilization (including Targaryen) they have met that has founded a Religion and is not currently at war.</Text>
+		</Row>
+		<!-- END OF BAELOR_TARGARYEN	-->
+		<!-- THE AERYS_II_TARGARYEN	-->
+		<Row Tag="LOC_LEADER_AERYS_II_TARGARYEN_NAME" Language="en_US">
+			<Text>Aerys II Targaryen</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_MAD_KING_NAME" Language="en_US">
+			<Text>The Mad King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_THE_MAD_KING_DESCRIPTION" Language="en_US">
+			<Text>Unit maintenance cost reduced by 2 [ICON_Gold] Gold per turn, per unit. +100% [ICON_Production] Production toward defensive buildings. +1 [ICON_GreatGeneral] Great General points per turn.</Text>
+		</Row>
+		<!-- END OF AERYS_II_TARGARYEN	-->
+		<!-- THE HOSTER_TULLY	-->
+		<Row Tag="LOC_LEADER_HOSTER_TULLY_NAME" Language="en_US">
+			<Text>Hoster Tully</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FAMILY_UNION_NAME" Language="en_US">
+			<Text>Family Union</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FAMILY_UNION_DESCRIPTION" Language="en_US">
+			<Text>+2 [ICON_TradeRoute] Trade Routes. Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production for both cities.</Text>
+		</Row>
+		<!-- END OF HOSTER_TULLY	-->
+		<!-- THE JON_ARRYN	-->
+		<Row Tag="LOC_LEADER_JON_ARRYN_NAME" Language="en_US">
+			<Text>Jon Arryn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HAND_OF_THE_KING_NAME" Language="en_US">
+			<Text>Hand of the King</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HAND_OF_THE_KING_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Arryn. Other civilizations' [ICON_TradeRoute] Trade Routes to Arryn provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Arryn. May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<!-- END OF JON_ARRYN	-->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DAERONII_TARGARYEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DAERONII_TARGARYEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DAEMON_BLACKFYRE"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DAEMON_BLACKFYRE"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_BAELOR_TARGARYEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_BAELOR_TARGARYEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AERYS_II_TARGARYEN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AERYS_II_TARGARYEN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_HOSTER_TULLY"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_HOSTER_TULLY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_JON_ARRYN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_JON_ARRYN"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

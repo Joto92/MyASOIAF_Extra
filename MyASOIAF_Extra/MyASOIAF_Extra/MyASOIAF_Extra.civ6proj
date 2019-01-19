@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: A Song of Ice And Fire Extra</Name>
+    <Guid>570396f3-5c6a-443e-8063-eeaea4eb272a</Guid>
+    <ProjectGuid>6a54271f-90ab-4a5e-992d-93f609051969</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>More Leaders Mod of A Song of Ice And Fire</Teaser>
+    <Description>This mod adds the extra Leaders of the A Song of Ice And Fire of George RR Martin.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyASOIAF_Extra_Civs.xml</File>
+          <File>MyASOIAF_Extra_Leaders.xml</File>
+          <File>MyASOIAF_Extra_Colors.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyASOIAF_Extra_ConfigText.xml</File>
+          <File>MyASOIAF_Extra_Text.xml</File>
+          <File>Translations/MyASOIAF_Extra_ConfigText_ES.xml</File>
+          <File>Translations/MyASOIAF_Extra_Text_ES.xml</File>
+          <File>MyASOIAF_Extra_Civilopedia.xml</File>
+          <File>Translations/MyASOIAF_Extra_Civilopedia_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyASOIAF_Extra_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>
+    ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyASOIAF_Extra_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyASOIAF_Extra_ConfigText.xml</File>
+          <File>Translations/MyASOIAF_Extra_ConfigText_ES.xml</File>
+        </UpdateText>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyASOIAF_Extra_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>
+    ]]></FrontEndActionData>
+    <AssemblyName>MyASOIAF_Extra</AssemblyName>
+    <RootNamespace>MyASOIAF_Extra</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+        <Dependency type="Mod" title="JT: A Song of Ice And Fire " id="6e66a293-6a21-4650-bb3e-58d55c5fbcc1" />
+    </Associations>]]></AssociationData>
+    <Authors>J. Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="MyASOIAF_Extra_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Extra_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyASOIAF_Extra_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Extra_Civilopedia_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Extra_ConfigText_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyASOIAF_Extra_Text_ES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyASOIAF_Extra_Config.xml" />
+    <Content Include="MyASOIAF_Extra_ConfigText.xml" />
+    <Content Include="MyASOIAF_Extra_Civs.xml" />
+    <Content Include="MyASOIAF_Extra_Icons.xml" />
+    <Content Include="MyASOIAF_Extra_Leaders.xml" />
+    <Content Include="MyASOIAF_Extra_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

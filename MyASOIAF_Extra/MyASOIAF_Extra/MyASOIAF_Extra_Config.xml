@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_DAERONII_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DAERONII_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DAERONII_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DAERON_THE_GOOD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DAERON_THE_GOOD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DAERONII_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_DAERONII_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_BLACKFYRE</CivilizationType>
+			<LeaderType>LEADER_DAEMON_BLACKFYRE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_BLACKFYRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_BLACKFYRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DAEMON_BLACKFYRE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DAEMON_BLACKFYRE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_BLACKFYRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_BLACK_DRAGON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_BLACK_DRAGON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DAEMON_BLACKFYRE</LeaderAbilityIcon>
+			<Portrait>LEADER_DAEMON_BLACKFYRE_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_BAELOR_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BAELOR_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BAELOR_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BAELOR_THE_SAINT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BAELOR_THE_SAINT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BAELOR_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_BAELOR_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_AERYS_II_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AERYS_II_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AERYS_II_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_MAD_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_MAD_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AERYS_II_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_AERYS_II_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_RIVERLANDS</CivilizationType>
+			<LeaderType>LEADER_HOSTER_TULLY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_RIVERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HOSTER_TULLY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HOSTER_TULLY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FAMILY_DUTY_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FAMILY_DUTY_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FAMILY_UNION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FAMILY_UNION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HOSTER_TULLY</LeaderAbilityIcon>
+			<Portrait>LEADER_HOSTER_TULLY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<LeaderType>LEADER_JON_ARRYN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VALE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VALE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JON_ARRYN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JON_ARRYN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AS_HIGH_AS_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AS_HIGH_AS_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VALE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HAND_OF_THE_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HAND_OF_THE_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JON_ARRYN</LeaderAbilityIcon>
+			<Portrait>LEADER_JON_ARRYN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_DAERONII_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DAERONII_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DAERONII_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DAERON_THE_GOOD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DAERON_THE_GOOD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DAERONII_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_DAERONII_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_BLACKFYRE</CivilizationType>
+			<LeaderType>LEADER_DAEMON_BLACKFYRE</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_BLACKFYRE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_BLACKFYRE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DAEMON_BLACKFYRE_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DAEMON_BLACKFYRE</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_BLACKFYRE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_BLACK_DRAGON_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_BLACK_DRAGON_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DAEMON_BLACKFYRE</LeaderAbilityIcon>
+			<Portrait>LEADER_DAEMON_BLACKFYRE_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_BAELOR_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_BAELOR_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_BAELOR_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_BAELOR_THE_SAINT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_BAELOR_THE_SAINT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_BAELOR_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_BAELOR_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_HOUSE_TARGARYEN</CivilizationType>
+			<LeaderType>LEADER_AERYS_II_TARGARYEN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_HOUSE_TARGARYEN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AERYS_II_TARGARYEN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AERYS_II_TARGARYEN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FIRE_AND_BLOOD_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FIRE_AND_BLOOD_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_HOUSE_TARGARYEN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_THE_MAD_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_THE_MAD_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AERYS_II_TARGARYEN</LeaderAbilityIcon>
+			<Portrait>LEADER_AERYS_II_TARGARYEN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_RIVERLANDS</CivilizationType>
+			<LeaderType>LEADER_HOSTER_TULLY</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_RIVERLANDS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_HOSTER_TULLY_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_HOSTER_TULLY</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_FAMILY_DUTY_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_FAMILY_DUTY_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_RIVERLANDS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FAMILY_UNION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FAMILY_UNION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_HOSTER_TULLY</LeaderAbilityIcon>
+			<Portrait>LEADER_HOSTER_TULLY_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_VALE</CivilizationType>
+			<LeaderType>LEADER_JON_ARRYN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VALE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VALE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_JON_ARRYN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_JON_ARRYN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_AS_HIGH_AS_HONOR_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_AS_HIGH_AS_HONOR_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VALE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HAND_OF_THE_KING_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HAND_OF_THE_KING_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_JON_ARRYN</LeaderAbilityIcon>
+			<Portrait>LEADER_JON_ARRYN_NEUTRAL</Portrait>
+			<PortraitBackground>MYSOIAF_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_RAVENS_TEETH" Icon="ICON_UNIT_RAVENS_TEETH" Name="LOC_UNIT_RAVENS_TEETH_NAME" Description="LOC_UNIT_RAVENS_TEETH_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_GOLDEN_COMPANY" Icon="ICON_UNIT_GOLDEN_COMPANY" Name="LOC_UNIT_GOLDEN_COMPANY_NAME" Description="LOC_UNIT_GOLDEN_COMPANY_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_ESSOS_WARELEPHANT" Icon="ICON_UNIT_ESSOS_WARELEPHANT" Name="LOC_UNIT_ESSOS_WARELEPHANT_NAME" Description="LOC_UNIT_ESSOS_WARELEPHANT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_MARCHES_ARCHER" Icon="ICON_UNIT_MARCHES_ARCHER" Name="LOC_UNIT_MARCHES_ARCHER_NAME" Description="LOC_UNIT_MARCHES_ARCHER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_BAELOR_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_BAELOR_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AERYS_II_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AERYS_II_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_HOSTER_TULLY" Type="UNIT_TULLY_GUARDSMEN" Icon="ICON_UNIT_TULLY_GUARDSMEN" Name="LOC_UNIT_TULLY_GUARDSMEN_NAME" Description="LOC_UNIT_TULLY_GUARDSMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_HOSTER_TULLY" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JON_ARRYN" Type="UNIT_KNIGHT_OF_VALE" Icon="ICON_UNIT_KNIGHT_OF_VALE" Name="LOC_UNIT_KNIGHT_OF_VALE_NAME" Description="LOC_UNIT_KNIGHT_OF_VALE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JON_ARRYN" Type="BUILDING_MOUNTAIN_GARDEN" Icon="ICON_BUILDING_MOUNTAIN_GARDEN" Name="LOC_BUILDING_MOUNTAIN_GARDEN_NAME" Description="LOC_BUILDING_MOUNTAIN_GARDEN_DESCRIPTION" SortIndex="20"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_RAVENS_TEETH" Icon="ICON_UNIT_RAVENS_TEETH" Name="LOC_UNIT_RAVENS_TEETH_NAME" Description="LOC_UNIT_RAVENS_TEETH_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_DAERONII_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="30"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_GOLDEN_COMPANY" Icon="ICON_UNIT_GOLDEN_COMPANY" Name="LOC_UNIT_GOLDEN_COMPANY_NAME" Description="LOC_UNIT_GOLDEN_COMPANY_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_ESSOS_WARELEPHANT" Icon="ICON_UNIT_ESSOS_WARELEPHANT" Name="LOC_UNIT_ESSOS_WARELEPHANT_NAME" Description="LOC_UNIT_ESSOS_WARELEPHANT_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="UNIT_MARCHES_ARCHER" Icon="ICON_UNIT_MARCHES_ARCHER" Name="LOC_UNIT_MARCHES_ARCHER_NAME" Description="LOC_UNIT_MARCHES_ARCHER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_BLACKFYRE" LeaderType="LEADER_DAEMON_BLACKFYRE" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_BAELOR_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_BAELOR_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AERYS_II_TARGARYEN" Type="UNIT_GOLDCLOACKS" Icon="ICON_UNIT_GOLDCLOACKS" Name="LOC_UNIT_GOLDCLOACKS_NAME" Description="LOC_UNIT_GOLDCLOACKS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_HOUSE_TARGARYEN" LeaderType="LEADER_AERYS_II_TARGARYEN" Type="UNIT_ROYAL_FLEET" Icon="ICON_UNIT_ROYAL_FLEET" Name="LOC_UNIT_ROYAL_FLEET_NAME" Description="LOC_UNIT_ROYAL_FLEET_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_HOSTER_TULLY" Type="UNIT_TULLY_GUARDSMEN" Icon="ICON_UNIT_TULLY_GUARDSMEN" Name="LOC_UNIT_TULLY_GUARDSMEN_NAME" Description="LOC_UNIT_TULLY_GUARDSMEN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_RIVERLANDS" LeaderType="LEADER_HOSTER_TULLY" Type="BUILDING_RIVER_MILL" Icon="ICON_BUILDING_RIVER_MILL" Name="LOC_BUILDING_RIVER_MILL_NAME" Description="LOC_BUILDING_RIVER_MILL_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JON_ARRYN" Type="UNIT_KNIGHT_OF_VALE" Icon="ICON_UNIT_KNIGHT_OF_VALE" Name="LOC_UNIT_KNIGHT_OF_VALE_NAME" Description="LOC_UNIT_KNIGHT_OF_VALE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VALE" LeaderType="LEADER_JON_ARRYN" Type="BUILDING_MOUNTAIN_GARDEN" Icon="ICON_BUILDING_MOUNTAIN_GARDEN" Name="LOC_BUILDING_MOUNTAIN_GARDEN_NAME" Description="LOC_BUILDING_MOUNTAIN_GARDEN_DESCRIPTION" SortIndex="20"/>
+
+	</PlayerItems>
+</GameData>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- THE DAERONII_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_DAERON_THE_GOOD_NAME" Language="es_ES">
+			<Text>Daeron el Bueno</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_DAERON_THE_GOOD_DESCRIPTION" Language="es_ES">
+			<Text>Todas la rutas dan +2[ICON_CULTURE] Cultura. Todas las ciudades con un distrito reciben +1 a Servicios [ICON_Amenities].</Text>
+		</Replace>
+		<!-- END OF DAERONII_TARGARYEN	-->
+		<!-- THE DAEMON_BLACKFYRE	-->
+		<Replace Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_NAME" Language="es_ES">
+			<Text>Casa Fuegoscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_DESCRIPTION" Language="es_ES">
+			<Text>Casa Fuegoscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_HOUSE_BLACKFYRE_ADJECTIVE" Language="es_ES">
+			<Text>Fuegoscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_DAEMON_BLACKFYRE_NAME" Language="es_ES">
+			<Text>Daemon Fuegoscuro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_DRAGON_NAME" Language="es_ES">
+			<Text>El Dragon Negro</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_BLACK_DRAGON_DESCRIPTION" Language="es_ES">
+			<Text>Paga un 75% del coste habitual para reclutar unidades de las ciudades-estado. +5% a Cultura [ICON_Culture] por cada ciudad-estado de la que seas suzerano.</Text>
+		</Replace>
+		<!-- END OF DAEMON_BLACKFYRE	-->
+		<!-- THE BAELOR_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_BAELOR_THE_SAINT_NAME" Language="es_ES">
+			<Text>Baelor el Santo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_BAELOR_THE_SAINT_DESCRIPTION" Language="es_ES">
+			<Text>Los distritos de Lugar sagrado se construyen en la mitad del tiempo normal. Los Inquisidores pueden Eliminar herejía una vez más. +5 a Fe [ICON_Faith] para cada civilización (incluida la Targaryen) con la que se hayan encontrado y que, además de haber fundado una religión, no esté en guerra actualmente.</Text>
+		</Replace>
+		<!-- END OF BAELOR_TARGARYEN	-->
+		<!-- THE AERYS_II_TARGARYEN	-->
+		<Replace Tag="LOC_TRAIT_THE_MAD_KING_NAME" Language="es_ES">
+			<Text>El Rey Loco</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_THE_MAD_KING_DESCRIPTION" Language="es_ES">
+			<Text>El coste de mantenimiento de las unidades se reduce a 2 de Oro [ICON_Gold] por turno y unidad. +100% a la Producción [ICON_Production] de edificios defensivos. +1 puntos de Gran general [ICON_GreatGeneral] por turno.</Text>
+		</Replace>
+		<!-- END OF AERYS_II_TARGARYEN	-->
+		<!-- THE HOSTER_TULLY	-->
+		<Replace Tag="LOC_TRAIT_FAMILY_UNION_NAME" Language="es_ES">
+			<Text>Union Familiar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FAMILY_UNION_DESCRIPTION" Language="es_ES">
+			<Text>+2 Rutas comerciales [ICON_TradeRoute]. Tus Rutas comerciales [ICON_TradeRoute] hacia la ciudad de un aliado dan +2 a Alimentos [ICON_Food] y +2 a Producción [ICON_Production] a ambas ciudades.</Text>
+		</Replace>
+		<!-- END OF HOSTER_TULLY	-->
+		<!-- THE JON_ARRYN	-->
+		<Replace Tag="LOC_TRAIT_HAND_OF_THE_KING_NAME" Language="es_ES">
+			<Text>Mano del Rey</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HAND_OF_THE_KING_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Oro [ICON_Gold] para Arryn. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con Arryn les proporcionan +2 a Alimentos [ICON_Food] a dichas civilizaciones y +2 de Oro [ICON_Gold] a Arryn. Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<!-- END OF JON_ARRYN	-->
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<IconDefinitions>
+		<Row Name="ICON_LEADER_DAERONII_TARGARYEN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="49"/>
+		<Row Name="ICON_LEADER_DAEMON_BLACKFYRE" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="50"/>
+		<Row Name="ICON_LEADER_BAELOR_TARGARYEN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="58"/>
+		<Row Name="ICON_LEADER_AERYS_II_TARGARYEN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="48"/>
+		<Row Name="ICON_LEADER_HOSTER_TULLY" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="46"/>
+		<Row Name="ICON_LEADER_JON_ARRYN" Atlas="ICON_ATLAS_MYSOIAF_LEADERS" Index="47"/>
+
+		<Row Name="ICON_CIVILIZATION_HOUSE_BLACKFYRE" Atlas="ICON_ATLAS_MYSOIAF_CIVILIZATIONS" Index="13"/>
+
+		<!-- FLAGS:
+		0: Stark | 1: Tully | 2: Arryn | 3: Lannister | 4: Baratheon-Lannister | 5: Dragonstone Baratheon | 6: Tyrell | 7: Martell 
+		8: Greyjoy | 9: Bolton | 10: Frey | 11: Wildings | 12: Night's Watch | 13: Targaryen & Blackfyre | 14: Dothraki | 15: Isla del oso | 
+		16: Baratheon | 17: childen | 18: Volantis | 19: Tyrosh | 20: Lys | 21: Myr | 22: Pentos | 23: Qohor
+		24: Norvos | 25: Lorath | 26: Bravoos | 27: Mereen | 28: Yunkai | 29: Astapor | 30: Valyria | 31: Ghis |
+		32: Sarnor | 33: Fisher | 34: Mudd | 35: Tarly | 36: Redwyne | 37: Hightower | 38: Florent | 39: Rowan 
+		40: Manderly | 41: Fowler | 42: Umber | 43: Dustin | 44: Yronwood | 45: Dayne | 46: Bracken | 47: Blackwood
+		48: Grafton | 49: Qorgyle | 50: Caron | 51: Connington | 52: Harlaw | 53: Brax | 54:Crackehall | 55: Velaryon
+		56: Horae | 57: Gardener, Glover(red) | 58: manwoody | 59: rhoyne | 60: caswell | 61: marbrand | 62: hunter  | 63: swann
+		
+		EXTRA:
+		Oakheart,Tallhart, Reed,Teague, Justman, Royce, Corbray, Waynwood, Redfort, Cafferen, Fell, Westerling, Duskendale, Sunglass, Wyl, Allyrion, Uller, Mallister, Darry, Mooton, Reyne, Lefford, Bar Emmon, Celtigar, Buckwell, mASSEY, Rosby, Stokeworth, Ryswell,cerwyn , House Flint of Widow's Watch, Hornwood, Flints of the Finger, Wull, Magnar, Vance of Wayfarer's Rest, Vance of Atranta, Piper, Harrengal(No house), Butterwell, Harroway, Hawick, Banefort, farman, Greenfield, Kenning, Lydden, Swyft, Serrett, Prester, Belmore, Melcolm, Sunderland, Templeton, waxley, Appleton, Ashford, Chester, Crane, Footly, Fossoway of Cider Hall ,Meadows, Merryweather, Peake, Roxton, Vyrwel, Dondarrion, Errol, Grandison, Mertyns, Morrigen, Penrose, Selmy, Tarth, Trant, Wylde, Blackmont, Gargalen, Jordayne, Santagar, Toland, Vaith, Drumm, Goodbrother, Saltcliffe, Orkwood, Blacktyde, Karstark, Lynderly, Estermont, Locke, Norrey, Coldwater, House Brune of Brownhollow,Buckler, Dalt
+
+	Leaders extra: Maegor, Jaehaerys I
+		-->
+	</IconDefinitions>
+</GameData>

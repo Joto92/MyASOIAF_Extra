@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Replace Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AERYS_II_TARGARYEN_QUOTE" Language="es_ES">
+			<Text>Esos traidores quieren mi ciudad, pero sólo encontrarán cenizas. Que Robert reine sobre un montón de huesos chamuscados y carne calcinada.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
